@@ -26,7 +26,7 @@ https://www.npmjs.com/package/quite_rpg
 https://github.com/kei-kmj/quiteRPG
 
 ## 【 チーム開発 】
-#### フィヨルドブートキャンプのチーム開発で10issueを担当しました。
+フィヨルドブートキャンプのチーム開発で10issueを担当しました。
 https://github.com/fjordllc/bootcamp/pulls?q=is%3Apr+author%3Akei-kmj+is%3Aclosed+
 
 
