@@ -13,7 +13,7 @@ https://kanken-practice-b5ve7zdnrq-an.a.run.app/
 https://github.com/kei-kmj/kanken_practice_note
 
 #### リリースブログ
-[開発テーマは速い！安い！メンテナンス楽々！～漢検学習アプリをリリースしました～](https://blog.hatena.ne.jp/kei_kmj/kei-kmj.hatenablog.com/edit?entry=4207112889950976266)
+[開発テーマは速い！安い！メンテナンス楽々！～漢検学習アプリをリリースしました～](https://kei-kmj.hatenablog.com/draft/entry/i7uIn0z1J15X_f6vz54wvxS5mVY)
 
 
 ## 【 npm 】
