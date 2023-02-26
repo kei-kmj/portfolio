@@ -25,9 +25,9 @@ https://www.npmjs.com/package/quite_rpg
 #### ソースコード
 https://github.com/kei-kmj/quiteRPG
 
-## 【 チーム開発 】
-フィヨルドブートキャンプのチーム開発で10issueを担当しました。   
-https://github.com/fjordllc/bootcamp/pulls?q=is%3Apr+author%3Akei-kmj+is%3Aclosed+
+## 【 Atcoder 】
+最近熱中している趣味です。まずは入茶を目指します。
+https://github.com/kei-kmj/Atcoder_log
 
 
 # blogs
