@@ -26,7 +26,7 @@ https://www.npmjs.com/package/quite_rpg
 https://github.com/kei-kmj/quiteRPG
 
 ## 【 Atcoder 】
-最近熱中している趣味です。まずは入茶を目指します。
+最近熱中している趣味です。まずは入茶を目指します。   
 https://github.com/kei-kmj/Atcoder_log
 
 
