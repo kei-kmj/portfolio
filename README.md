@@ -30,7 +30,7 @@ https://github.com/kei-kmj/quiteRPG
 https://atcoder.jp/users/keikmj
 https://github.com/kei-kmj/Atcoder_log
 
-#　チーム開発
+# チーム開発
 https://github.com/fjordllc/bootcamp/pulls?q=is%3Apr+is%3Aclosed+kei-kmj++is%3Amerged+
 
 # blogs
