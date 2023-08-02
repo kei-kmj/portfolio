@@ -36,12 +36,6 @@ https://www.npmjs.com/package/quite_rpg
 #### ソースコード
 https://github.com/kei-kmj/quiteRPG
 
-## 【Chocotra】
-概要：超軽量Webサーバを自作しました。
-
-#### ソースコード
-https://github.com/kei-kmj/HenacatRuby/pulls
-
 
 # blogs
 https://blog.hatena.ne.jp/kei_kmj/kei-kmj.hatenablog.com/
