@@ -1,6 +1,6 @@
 # profile
-経理部門や社内システム部門で、excelVBA、accessVBA、RPAを用いた業務効率化ツールを開発していました。   
-もっと技術力と自走力を付けたいと思い、プログラミングスクール：[フィヨルドブートキャンプ](https://bootcamp.fjord.jp/)の門を叩き、1年間学習しました。
+社内システム部門で、Python、Django、excelVBA、accessVBA、RPAを用いた業務効率化ツールを開発していました。
+現在はWebの仕事をしています。
 
 # product
 ## 【 漢検練習帳 】  
@@ -15,9 +15,20 @@ https://github.com/kei-kmj/kanken_practice_note
 #### リリースブログ
 [開発テーマは速い！安い！メンテナンス楽々！～漢検学習アプリをリリースしました～](https://kei-kmj.hatenablog.com/draft/entry/i7uIn0z1J15X_f6vz54wvxS5mVY)
 
+## 【Chocotra】
+概要：Rubyで超軽量Webサーバを自作しました。
+
+#### ソースコード
+https://github.com/kei-kmj/HenacatRuby/pulls
+
+## 【Chocolask】
+概要：Pythonでも超軽量Webサーバを自作しました。
+
+#### ソースコード
+https://github.com/kei-kmj/Chocolask/pulls
 
 ## 【 npm 】
-概要：コマンドラインで動かせる小さなロールプレイングゲームを作成しました。
+概要：コマンドラインで動かせる小さなロールプレイングゲームをJavascriptで作成しました。
 
 #### URL
 https://www.npmjs.com/package/quite_rpg
@@ -25,13 +36,12 @@ https://www.npmjs.com/package/quite_rpg
 #### ソースコード
 https://github.com/kei-kmj/quiteRPG
 
-## 【 Atcoder 】
-まずは入茶を目指します。   
-https://atcoder.jp/users/keikmj
-https://github.com/kei-kmj/Atcoder_log
+## 【Chocotra】
+概要：超軽量Webサーバを自作しました。
 
-# チーム開発
-https://github.com/fjordllc/bootcamp/pulls?q=is%3Apr+is%3Aclosed+kei-kmj++is%3Amerged+
+#### ソースコード
+https://github.com/kei-kmj/HenacatRuby/pulls
+
 
 # blogs
 https://blog.hatena.ne.jp/kei_kmj/kei-kmj.hatenablog.com/
