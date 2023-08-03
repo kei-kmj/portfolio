@@ -38,4 +38,4 @@ https://github.com/kei-kmj/quiteRPG
 
 
 # blogs
-https://blog.hatena.ne.jp/kei_kmj/kei-kmj.hatenablog.com/
+https://kei-kmj.hatenablog.com/
