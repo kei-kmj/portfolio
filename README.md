@@ -1,6 +1,6 @@
 # profile
 現在は、Python,FastAPI,React,TypeScriptを用いたWebアプリケーション開発を行っています。
-他に、Ruby on Rails, Django, NestJS, Google Cloud Dockerなどの技術も使用しています。
+他に、Ruby on Rails, Django, NestJS, Google Cloud Dockerなどの技術の使用経験があります。
 
 # product
 ## 【 漢検練習帳 】  
